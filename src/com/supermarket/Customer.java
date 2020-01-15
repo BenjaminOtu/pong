@@ -4,6 +4,7 @@ public class Customer {
    //Opdracht 3
     public ShoppingCart winkelwagen;
     public Basket mandje;
+    //gewoon wat tekst
     //Opdracht 4
     public String name;
     //No arguments constructor
